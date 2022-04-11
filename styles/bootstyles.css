@@ -1,0 +1,38 @@
+.header1 {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+    border-color:#999999;
+}
+
+.mainbody1 {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+}
+
+.footer1 {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.common {
+    position: absolute;
+}
+
+.bgimage {
+    background-image:url(../images/bg1.jpeg);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(67, 15, 15)
+}

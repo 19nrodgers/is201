@@ -1,0 +1,12 @@
+.italicize {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.size {
+    font-size: larger;
+}
+.fontchange {
+    font-family: 'Times New Roman', Times, serif;
+}
